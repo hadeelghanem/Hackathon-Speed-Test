@@ -1,6 +1,6 @@
-# Hackathon Project – Network Speed Test (Intro to Computer Networks 2024)
+# Hackathon Project – Network Speed Test 
 
-This repository contains my solution for the **Intro to Computer Networks 2024 Hackathon – Speed Test Assignment**.  
+This repository contains my solution for the **Intro to Computer Networks 2024 Hackathon – Speed Test**.  
 The goal of the project was to build a **client-server application** in Python that measures and compares network throughput over **TCP and UDP**, with compatibility across all teams’ implementations .
 
 ---
