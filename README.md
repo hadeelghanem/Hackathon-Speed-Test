@@ -41,7 +41,6 @@ The goal of the project was to build a **client-server application** in Python t
 ---
 
 ## Example Run
-```text
 Client started, listening for offer requests...
 Received offer from 172.1.0.4
 Connected to server on TCP port 5000, UDP port 6000
